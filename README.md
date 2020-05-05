@@ -13,5 +13,3 @@ Is using in projects:
 Responsibility:
 + #DEV-ROLE
 + #ADMIN-ROLE
-
-![Apibuild2](apibuild2.png)
