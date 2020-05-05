@@ -6,7 +6,10 @@ https://github.com/apiexec
 
 ## About APIexec
 
-APIexec it's a runner for bash scripts
+APIexec it's a runner for bash scripts, written in many programming languages as a library:
++ nodejs
++ php
++ python
 
 ## Is using in projects:
 + [APIcra](http://apicra.com)
