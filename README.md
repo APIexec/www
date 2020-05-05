@@ -4,12 +4,15 @@
 
 https://github.com/apiexec
 
-runner for APIcra scripts
-Is using in projects:
+## About APIexec
+
+APIexec it's a runner for bash scripts
+
+## Is using in projects:
 + [APIcra](http://apicra.com)
 + [ProMaGen](https://www.promagen.com/)
 + [DevOpsTerminal](https://docs.devopsterminal.com/)
 
-Responsibility:
+## Responsibility:
 + #DEV-ROLE
 + #ADMIN-ROLE
