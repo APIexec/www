@@ -4,6 +4,8 @@
 
 https://github.com/apiexec
 
+The project is supported by [API Foundation](http://apifoundation.com)
+
 ## About APIexec
 
 APIexec it's a runner for bash scripts, written in many programming languages as a library:
