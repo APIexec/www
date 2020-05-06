@@ -6,16 +6,17 @@
 
 https://github.com/apiexec
 
-The project is supported by [API Foundation](https://apifoundation.com)
+Projekt APIexec jest wspierany przez [API Foundation](https://apifoundation.com)
 
-## [API Foundation](https://apifoundation.com) Solutions
-We started in 2018 with few concepts but one idea: fastest development.
-Now, in 2020 we are giving solutions:
+## Rozwiązania wspierane przez [API Foundation](https://apifoundation.com)
 
-+ [APIexec - executor library for shell scripts](https://apiexec.com)
-+ [APIcra - shell scripts libraries](https://apicra.com)
-+ [APIunit - definition of application, CI, CD](https://APIunit.com)
-+ [APIbuild - build process definition, focused on quality, versioning](https://apibuild.com)
+Od początku działania (w 2018 roku) tworzyliśmy kilka koncepcji skupionych wokół jednej idei: szybszego wytwarzania orogramowania
+Obecnie w roku 2020 oferujemy rozwiązania:
+
++ [APIexec - executor, aplikacja uruchamiająca skrypty powłoki shell](https://apiexec.com)
++ [APIcra - biblioteki skryptów shell](https://apicra.com)
++ [APIunit - definicje aplikacji oraz środowiska dla ciągłej kontroli wytwarzania oprogramowania](https://APIunit.com)
++ [APIbuild - monitorowanie wytwarzania oprogramowania, jakość i wersjonowanie ](https://apibuild.com)
 
 ## About APIexec
 
