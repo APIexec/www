@@ -6,16 +6,17 @@
 
 https://github.com/apiexec
 
-The project is supported by [API Foundation](https://apifoundation.com)
+Projekt APIexec jest wspierany przez [API Foundation](https://apifoundation.com)
 
-## [API Foundation](https://apifoundation.com) Solutions
-We started in 2018 with few concepts but one idea: fastest development.
-Now, in 2020 we are giving solutions:
+## Rozwiązania wspierane przez [API Foundation](https://apifoundation.com)
 
-+ [APIexec - executor library for shell scripts](https://www.apiexec.com)
-+ [APIcra - shell scripts libraries](https://www.apicra.com)
-+ [APIunit - definition of application, CI, CD](https://www.apiunit.com)
-+ [APIbuild - build process definition, focused on quality, versioning](https://www.apibuild.com)
+Od początku działania (w 2018 roku) tworzyliśmy kilka koncepcji skupionych wokół jednej idei: szybszego wytwarzania orogramowania
+Obecnie w roku 2020 oferujemy rozwiązania:
+
++ [APIexec - executor, aplikacja uruchamiająca skrypty powłoki shell](https://www.apiexec.com)
++ [APIcra - biblioteki skryptów shell](https://www.apicra.com)
++ [APIunit - definicje aplikacji oraz środowiska dla ciągłej kontroli wytwarzania oprogramowania](https://www.apiunit.com)
++ [APIbuild - monitorowanie wytwarzania oprogramowania, jakość i wersjonowanie ](https://www.apibuild.com)
 
 ## About APIexec
 
@@ -32,3 +33,15 @@ APIexec it's a runner for bash scripts, written in many programming languages as
 ## Responsibility:
 + #DEV-ROLE
 + #ADMIN-ROLE
+# ADMIN-ROLE
+
+## Cloud solution
+for creating space to execute some example scipts
+based on
++ [faas.ovh](https://faas.ovh/)
++ [faaSapp](https://www.faasapp.com/)
+
+Cloud convert this html file with bash scripts in files few *.sh
+which will be executed by One Promagen version on faasapp.com Cloud
+
+https://docs.gitlab.com/runner/install/linux-manually.html
