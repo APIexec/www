@@ -17,6 +17,7 @@ Obecnie w roku 2020 oferujemy rozwiązania:
 + [APIcra - biblioteki skryptów shell](https://www.apicra.com)
 + [APIunit - definicje aplikacji oraz środowiska dla ciągłej kontroli wytwarzania oprogramowania](https://www.apiunit.com)
 + [APIbuild - monitorowanie wytwarzania oprogramowania, jakość i wersjonowanie ](https://www.apibuild.com)
++ [APIsql - bazy danych, zapytania, modele](https://www.apisql.com)
 
 ## About APIexec
 
