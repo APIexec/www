@@ -6,7 +6,7 @@
 
 https://github.com/apiexec
 
-## Projekt APIexec jest wspierany przez [API Foundation](https://apifoundation.com)
+## Projekt APIexec jest wspierany przez [API Foundation](https://www.apifoundation.com)
 
 Od początku działania (w 2018 roku) tworzyliśmy kilka koncepcji skupionych wokół jednej idei: szybszego wytwarzania orogramowania
 Obecnie w roku 2020 oferujemy rozwiązania:
