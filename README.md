@@ -24,6 +24,16 @@ APIexec it's a runner for bash scripts, written in many programming languages as
 + php
 + python
 
+Features
+
+Simple setup process and a minimal learning curve
+Ready to use recipes for most frameworks
+Parallel execution without extensions
+Something went wrong? Rollback to the previous release
+Agentless, it’s just SSH
+Zero downtime deployments
+
+
 ## Is using in projects:
 + [APIcra](https://www.apicra.com)
 + [ProMaGen](https://www.promagen.com/)
